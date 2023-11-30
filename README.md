@@ -1,5 +1,8 @@
 # BingMapとline（chatGPT）とインスタ
 
+## APIキーを隠す方法にチャレンジしたいけど、他の優先度が、、、ということで画像
+<img width="1137" alt="スクリーンショット 2023-12-01 0 45 23" src="https://github.com/GoKudo0921/kadai05_map_20231125/assets/148073393/115ef1a9-8bc2-4233-8bcb-63fe6d228373">
+
 ## 紹介と使い方
 - **APIをただひたすらに使ってみたかった**
 - BingMap
